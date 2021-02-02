@@ -31,9 +31,9 @@ ext.versions = [
         // coroutines
         coroutinesVersion    : '1.4.0',
 
-
-
-
-
+        // test
+        junitVersion         : '4.13.1',
+        mockitoInlineVersion : '3.5.13',
+        archVersion          : '2.1.0'
 
 ]
