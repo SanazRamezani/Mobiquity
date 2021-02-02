@@ -16,7 +16,7 @@ import org.mockito.ArgumentCaptor
 import org.mockito.Mockito
 import org.mockito.Mockito.*
 
-class ViewModelExtensionsTest {
+class ViewModelExtensionsKtTest {
 
     private val viewModel: ViewModel = ViewModelHelper()
     private val useCase: UseCase<Any?, Any?> = mock(UseCase::class.java) as UseCase<Any?, Any?>
